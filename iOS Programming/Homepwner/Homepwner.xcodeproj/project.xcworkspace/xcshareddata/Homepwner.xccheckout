@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>49E6A47B-8B0B-4EBF-ADB9-8DC87D33E09B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Homepwner</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B8611657CE67E52557A83D67E8AFD7479737ACF</key>
+		<string>https://github.com/pennatil/Big-Nerd-Ranch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS Programming/Homepwner/Homepwner.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B8611657CE67E52557A83D67E8AFD7479737ACF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pennatil/Big-Nerd-Ranch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B8611657CE67E52557A83D67E8AFD7479737ACF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B8611657CE67E52557A83D67E8AFD7479737ACF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Big%20Nerd%20Ranch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
